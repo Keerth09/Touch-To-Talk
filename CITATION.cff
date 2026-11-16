@@ -2,25 +2,33 @@ cff-version: 1.2.0
 message: "If you use this project, please cite it as below."
 title: "Touch To Talk: Communication for Individuals with Numbness and Immobility"
 type: software
+abstract: "A combined hardware and software (embedded systems) project: an Arduino Nano-based assistive communication and heart-rate monitoring system for paralyzed patients. Touch sensors trigger messages shown on an LCD and spoken by a voice module; a pulse sensor raises a buzzer alert on abnormal heart rate. Firmware developed in the Arduino IDE."
 authors:
-  - family-names: "Keerthana"
-    given-names: "Avula"
+  - family-names: "Avula"
+    given-names: "Keerthana"
     affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
-  - family-names: "Lokesh"
-    given-names: "Avulapati"
-  - family-names: "Basha"
-    given-names: "Gudupak Juned"
-  - family-names: "Shreya"
-    given-names: "Jangam"
-  - family-names: "Danush"
-    given-names: "Ganapa Venkata"
-  - family-names: "Murthy"
-    given-names: "Achutha Sadhanandha"
-  - family-names: "Ahmed"
-    given-names: "S. Towseef"
+  - family-names: "Avulapati"
+    given-names: "Lokesh"
+    affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
+  - family-names: "Gudupak"
+    given-names: "Juned Basha"
+    affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
+  - family-names: "Jangam"
+    given-names: "Shreya"
+    affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
+  - family-names: "Ganapa"
+    given-names: "Venkata Danush"
+    affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
+  - family-names: "Achutha"
+    given-names: "Sadhanandha Murthy"
+    affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
+  - family-names: "S."
+    given-names: "Towseef Ahmed"
+    affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
 repository-code: "https://github.com/Keerth09/Touch-To-Talk"
 keywords:
   - Arduino Nano
+  - Arduino IDE
   - assistive technology
   - heart rate monitoring
   - touch sensor

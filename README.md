@@ -136,6 +136,8 @@ The system keeps running until power is cut.
 
 📄 More detail: [Bill of Materials](hardware/BILL_OF_MATERIALS.md) · [Circuit Schematic](hardware/CIRCUIT_SCHEMATIC.md)
 
+**Project type:** combined **hardware + software** (embedded systems). The hardware is built from the components above; the firmware is written in the **Arduino IDE**.
+
 ## 📊 Results & Demonstration
 
 Testing showed **accurate response to touch inputs** and **successful detection of heart-rate variations**, with little delay between sensor activation and output. The buzzer was effective at attracting attention when the heart rate changed.
@@ -208,6 +210,8 @@ The full list of 15 references is in [docs/REFERENCES.md](docs/REFERENCES.md).
 Department of Electronics and Communication Engineering (ECE),
 **G. Pullaiah College of Engineering and Technology, Kurnool, India**
 
+**Project team**
+
 | Name |
 |---|
 | Avula Keerthana *(corresponding author — keerthanak93987@gmail.com)* |
@@ -216,8 +220,8 @@ Department of Electronics and Communication Engineering (ECE),
 | Jangam Shreya |
 | Ganapa Venkata Danush |
 | Achutha Sadhanandha Murthy |
-| S. Towseef Ahmed |
 
+**Mentor / Project guide:** S. Towseef Ahmed
 ## 📝 License & Citation
 
 **© 2026 Touch-To-Talk authors. All rights reserved.**
