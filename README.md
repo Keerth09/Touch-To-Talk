@@ -222,6 +222,7 @@ Department of Electronics and Communication Engineering (ECE),
 | Achutha Sadhanandha Murthy |
 
 **Mentor / Project guide:** S. Towseef Ahmed
+
 ## 📝 License & Citation
 
 **© 2026 Touch-To-Talk authors. All rights reserved.**
