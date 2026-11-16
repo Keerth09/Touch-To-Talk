@@ -207,19 +207,16 @@ The full list of 15 references is in [docs/REFERENCES.md](docs/REFERENCES.md).
 
 ## 👩‍💻 Authors
 
-Department of Electronics and Communication Engineering (ECE),
-**G. Pullaiah College of Engineering and Technology, Kurnool, India**
+Department of Electronics and Communication Engineering (ECE), **G. Pullaiah College of Engineering and Technology, Kurnool, India**
 
 **Project team**
 
-| Name |
-|---|
-| Avula Keerthana *(corresponding author — keerthanak93987@gmail.com)* |
-| Avulapati Lokesh |
-| Gudupak Juned Basha |
-| Jangam Shreya |
-| Ganapa Venkata Danush |
-| Achutha Sadhanandha Murthy |
+- Avula Keerthana *(corresponding author, keerthanak93987@gmail.com)*
+- Avulapati Lokesh
+- Gudupak Juned Basha
+- Jangam Shreya
+- Ganapa Venkata Danush
+- Achutha Sadhanandha Murthy
 
 **Mentor / Project guide:** S. Towseef Ahmed
 
