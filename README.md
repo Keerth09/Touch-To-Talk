@@ -29,7 +29,7 @@ An **Arduino Nano–based assistive communication and heart-rate monitoring syst
 8. [Limitations](#-limitations)
 9. [Future Scope](#-future-scope)
 10. [Repository Structure](#-repository-structure)
-11. [Getting Started](#-getting-started)
+11. [Code Availability](#-code-availability)
 12. [Related Work](#-related-work)
 13. [References](#-references)
 14. [Authors](#-authors)
@@ -134,6 +134,8 @@ The system keeps running until power is cut.
 | 7 | Regulated power supply | Steady voltage for all modules |
 | 8 | Temperature sensor, IR TX/RX ¹ | Shown in block diagram (modular extension) |
 
+📄 More detail: [Bill of Materials](hardware/BILL_OF_MATERIALS.md) · [Circuit Schematic](hardware/CIRCUIT_SCHEMATIC.md)
+
 ## 📊 Results & Demonstration
 
 Testing showed **accurate response to touch inputs** and **successful detection of heart-rate variations**, with little delay between sensor activation and output. The buzzer was effective at attracting attention when the heart rate changed.
@@ -182,18 +184,16 @@ Touch-To-Talk/
 │   ├── ARCHITECTURE.md    # Detailed design & control logic
 │   ├── RELATED_WORK.md    # Literature comparison
 │   └── REFERENCES.md      # Full reference list
-├── firmware/              # Arduino sketch (see firmware/README.md)
+├── hardware/              # Bill of materials & circuit schematic
+├── firmware/              # Not publicly released (see firmware/README.md)
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
 ```
 
-## 🚀 Getting Started
+## 🔒 Code Availability
 
-1. Assemble the circuit as per the [block diagram](assets/images/fig2_block_diagram.png) and [prototype photo](assets/images/fig3_hardware_prototype.png).
-2. Install the [Arduino IDE](https://www.arduino.cc/en/software) and select **Board → Arduino Nano**, **Processor → ATmega328P**.
-3. Open the sketch from `firmware/` (see [firmware/README.md](firmware/README.md)), upload it, and power the board from a regulated supply.
-4. Touch a sensor to trigger a message, or attach the pulse sensor to watch the heart-rate status.
+The Arduino firmware and the pin-level wiring of this prototype are **not publicly released**. This repository documents the design, working principle, results and hardware overview for **reference only**. For permission requests, see the [License](#-license--citation).
 
 ## 📚 Related Work
 

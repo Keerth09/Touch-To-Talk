@@ -1,19 +1,12 @@
 # Firmware
 
-Place the Arduino sketch for the Touch-To-Talk prototype in this folder, e.g.:
-
-```text
-firmware/
-└── TouchToTalk/
-    └── TouchToTalk.ino
-```
+The Arduino firmware and pin-level wiring for the Touch-To-Talk prototype are **not publicly released**.
 
 ## Target
-- **Board:** Arduino Nano
-- **Processor:** ATmega328P
+- **Board:** Arduino Nano (ATmega328P)
 - **Peripherals:** 3 × touch sensor, pulse sensor, I²C LCD, APR33A3 voice module, buzzer
 
-## Behaviour the sketch implements
+## Behaviour implemented
 | Event | LCD | Voice (APR33A3) | Buzzer |
 |---|---|---|---|
 | Touch sensor 1 | `TAKE ME OUT` | ✅ | — |
@@ -23,5 +16,4 @@ firmware/
 | 60 ≤ BPM ≤ 100 | `Heartbeat NORMAL` | — | — |
 | BPM > 100 | `Heartbeat HIGH` | — | ✅ |
 
-## Pin mapping
-Add a table here documenting which Nano pin connects to each module.
+For access requests, contact: keerthanak93987@gmail.com
