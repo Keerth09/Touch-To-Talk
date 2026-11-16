@@ -229,7 +229,7 @@ This repository is public for **reading and academic reference only**.
 | ✅ You may | ❌ You may not (without written permission) |
 |---|---|
 | Read and learn from this project | Copy or republish any text, images, schematic, BOM, pin mapping or code |
-| Cite it using [CITATION.cff](CITATION.cff) | Build a replica from its circuit or pin-level design |
+| Credit the authors and link to this repository when referencing it | Build a replica from its circuit or pin-level design |
 | Use the ideas, limitations and future scope as inspiration for your **own independent** work, with credit | Use it commercially |
 
 For permission requests: keerthanak93987@gmail.com. See [LICENSE](LICENSE) for the full terms.
