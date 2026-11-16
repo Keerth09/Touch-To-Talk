@@ -33,7 +33,7 @@ An **Arduino Nano–based assistive communication and heart-rate monitoring syst
 12. [Related Work](#-related-work)
 13. [References](#-references)
 14. [Authors](#-authors)
-15. [License & Citation](#-license--citation)
+15. [License](#-license)
 
 ---
 
@@ -195,7 +195,7 @@ Touch-To-Talk/
 
 ## 🔒 Code Availability
 
-The Arduino firmware and the pin-level wiring of this prototype are **not publicly released**. This repository documents the design, working principle, results and hardware overview for **reference only**. For permission requests, see the [License](#-license--citation).
+The Arduino firmware and the pin-level wiring of this prototype are **not publicly released**. This repository documents the design, working principle, results and hardware overview for **reference only**. For permission requests, see the [License](#-license).
 
 ## 📚 Related Work
 
@@ -220,7 +220,7 @@ Department of Electronics and Communication Engineering (ECE), **G. Pullaiah Col
 
 **Mentor / Project guide:** S. Towseef Ahmed
 
-## 📝 License & Citation
+## 📝 License
 
 **© 2026 Touch-To-Talk authors. All rights reserved.**
 
