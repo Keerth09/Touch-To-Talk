@@ -220,7 +220,19 @@ Department of Electronics and Communication Engineering (ECE),
 
 ## 📝 License & Citation
 
-Released under the [MIT License](LICENSE). If you use this work, please cite it using [CITATION.cff](CITATION.cff) (GitHub's **“Cite this repository”** button).
+**© 2026 Touch-To-Talk authors. All rights reserved.**
+
+This repository is public for **reading and academic reference only**.
+
+| ✅ You may | ❌ You may not (without written permission) |
+|---|---|
+| Read and learn from this project | Copy or republish any text, images, schematic, BOM, pin mapping or code |
+| Cite it using [CITATION.cff](CITATION.cff) | Build a replica from its circuit or pin-level design |
+| Use the ideas, limitations and future scope as inspiration for your **own independent** work, with credit | Use it commercially |
+
+For permission requests: keerthanak93987@gmail.com. See [LICENSE](LICENSE) for the full terms.
+
+> ⚠️ Research prototype, not a certified medical device.
 
 <div align="center">
 
