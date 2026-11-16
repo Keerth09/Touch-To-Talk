@@ -1,0 +1,24 @@
+# Research papers / manuscripts (kept out of the repo)
+*.docx
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.lst
+*.map
+
+# Misc
+*.log
+*.tmp
+~$*

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Touch To Talk: Communication for Individuals with Numbness and Immobility"
+type: software
+authors:
+  - family-names: "Keerthana"
+    given-names: "Avula"
+    affiliation: "G. Pullaiah College of Engineering and Technology, Kurnool, India"
+  - family-names: "Lokesh"
+    given-names: "Avulapati"
+  - family-names: "Basha"
+    given-names: "Gudupak Juned"
+  - family-names: "Shreya"
+    given-names: "Jangam"
+  - family-names: "Danush"
+    given-names: "Ganapa Venkata"
+  - family-names: "Murthy"
+    given-names: "Achutha Sadhanandha"
+  - family-names: "Ahmed"
+    given-names: "S. Towseef"
+repository-code: "https://github.com/Keerth09/Touch-To-Talk"
+license: MIT
+keywords:
+  - Arduino Nano
+  - assistive technology
+  - heart rate monitoring
+  - touch sensor
+  - APR33A3
+  - embedded systems
+  - healthcare
