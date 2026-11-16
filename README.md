@@ -9,7 +9,7 @@ An **Arduino Nano–based assistive communication and heart-rate monitoring syst
 ![Arduino Nano](https://img.shields.io/badge/MCU-Arduino%20Nano%20(ATmega328P)-00979D?logo=arduino&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-Assistive%20Healthcare-2ea44f)
 ![Embedded](https://img.shields.io/badge/Type-Embedded%20Systems-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 
 <img src="assets/images/fig3_hardware_prototype.png" alt="Touch-To-Talk hardware prototype" width="620">
 

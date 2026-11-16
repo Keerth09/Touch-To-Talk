@@ -19,7 +19,6 @@ authors:
   - family-names: "Ahmed"
     given-names: "S. Towseef"
 repository-code: "https://github.com/Keerth09/Touch-To-Talk"
-license: MIT
 keywords:
   - Arduino Nano
   - assistive technology
